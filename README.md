@@ -1,1 +1,2 @@
 # SampleGitAssignmentRepo
+Git Intermediate Assignment
